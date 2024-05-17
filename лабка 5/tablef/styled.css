@@ -1,0 +1,27 @@
+.line2{
+    background-color: green;
+    color: white;
+}
+.line{
+    color: green;
+}
+
+.button{
+color: green;
+}
+.bloc{
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
+    padding: 5px ;
+    text-align: center;
+    margin-left:40% ;
+    margin-right: 40%;
+}
+.white, .grey{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.grey{
+    background-color: lightgray;
+}

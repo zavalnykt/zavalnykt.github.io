@@ -1,0 +1,28 @@
+body{
+    margin-left:20px;
+    font-size:24px ;
+    color:azure;
+    background:url(../images/maxresdefault.jpg);
+    background-size:cover ;
+    
+}
+.cat{
+    height:200px;
+    width:200px ;
+    display: block;
+    margin-left: auto;
+}
+.right{
+    text-align:right;
+}
+.purplecat{
+    height:200px;
+    width:350px ;
+    display: block;
+    margin-left: auto;
+   
+}
+a{
+    color: azure;
+}
+
